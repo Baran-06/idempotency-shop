@@ -11,3 +11,23 @@ body {
 h1 {
   color: #2e7d32;
 }
+.card{
+  padding: 20px 20px;
+  border:1px solid rgb(150, 189, 222) ;
+  background-color:rgb(150, 189, 222) ;
+  border-radius: 6px;
+  width: 300px;
+  box-shadow: 4px 4px 3px rgb(177, 173, 173);
+}
+.image{
+  margin: 0;
+}
+.card h3{
+  margin: 0;
+}
+.card h2{
+  margin: 0;
+}
+.product{
+  border: 3px solid black;
+}
