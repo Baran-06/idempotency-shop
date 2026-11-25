@@ -47,7 +47,7 @@ export default function Brand() {
         />
       </svg>
 
-      <span className="brand-name">تازه خانه</span>
+      <span className="brand-name">نام فروشگاه اشتباه است</span>
     </a>
   );
 }
