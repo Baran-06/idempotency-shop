@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.2] - 2026-11-25
+
+### Fixed
+
+- Restored the correct shop header label, `تازه خانه`, by reverting the intentional header bug in Git as part of the production recovery.
+
 ## [1.0.1] - 2026-11-25
 
 ### Changed
